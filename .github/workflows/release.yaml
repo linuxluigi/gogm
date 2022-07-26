@@ -1,3 +1,9 @@
+# Create new releases with GoReleaser
+# This pipeline will run when a new release is created and automatically build & deploy the CMD's.
+# Which CMD's will be created, is declared in ./.goreleaser.yaml
+# 
+# Doc: https://goreleaser.com/
+
 name: Release
 
 on:

@@ -1,3 +1,7 @@
+# Configuration file for GoReleaser
+# 
+# Doc: https://goreleaser.com/
+
 project_name: gogmcli
 
 snapshot:
