@@ -304,7 +304,7 @@ sess, err := gogm.G().NewSessionV2(gogm.SessionConfig{AccessMode: gogm.AccessMod
 ## CLI Installation
 
 ```bash
-go install github.com/mindstand/gogm/cmd/gogmcli@latest
+go install github.com/mindstand/gogm/v2/cmd/gogmcli@latest
 ```
 
 ## CLI Usage
